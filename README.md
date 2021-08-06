@@ -1,2 +1,2 @@
 # Cleancode
-Make a Code Clean and  runable Using cleac code concept.
+Make a Code Clean and  runable Using clean code concept.
